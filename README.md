@@ -9,8 +9,7 @@
 
 
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://www.last.fm/user/ectosBiologist"><img src="https://lastfm-recently-played.vercel.app/api?user=ectosBiologist" height="250" width="400px"/></a>
-![](https://nowplaying-api.tinyrobot.co/playbackstate?key=f1fa9c89-3bad-4d23-8c36-06bfef041c02)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://www.last.fm/user/ectosBiologist"><img src="https://lastfm-recently-played.vercel.app/api?user=ectosBiologist" height="150" width="400px"/></a>
 
 
 
