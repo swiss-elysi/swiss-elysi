@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=smuppet&abbreviated=true&label=⠀☆⠀ponys⠀⠀&color=9aa4b0)
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![](https://64.media.tumblr.com/6462ba392ad81689e1c98fc5901e62c8/048517b550743f13-72/s400x600/25eabe5ae99c57cd5e43a54ad2d1fbd3020261a4.pnj)
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀20 yrs⠀.⠀uk⠀.⠀plural⠀![](https://64.media.tumblr.com/4b790b83f62d87e956f4e0266e098a74/a99701de4660a168-66/s75x75_c1/412d7a3127374a6f1c81ec14b88a7f76d5610707.gifv)
@@ -6,4 +7,4 @@
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![](https://64.media.tumblr.com/6462ba392ad81689e1c98fc5901e62c8/048517b550743f13-72/s400x600/25eabe5ae99c57cd5e43a54ad2d1fbd3020261a4.pnj)
 
-![](https://komarev.com/ghpvc/?username=smuppet&abbreviated=true&label=⠀☆⠀ponys⠀⠀&color=9aa4b0)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=catboykenma&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=c0c0c0&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=catboykenma&redirect=true)
